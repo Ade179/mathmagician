@@ -29,10 +29,6 @@
   width: 500px;
 }
 
-.container:hover {
-  box-shadow: 50px 50px 50px 50px #8888;
-}
-
 .span2 {
   grid-column: span 2;
 }
