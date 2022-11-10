@@ -42,3 +42,13 @@
   background-color: grey;
   height: 100px;
 }
+
+.answer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 8%;
+  font-size: 25px;
+  color: white;
+}
