@@ -1,6 +1,5 @@
 import React, { PureComponent } from 'react';
 import './CSSmodules/footer.css';
-import { Link } from 'react-router-dom';
 
 class Footer extends PureComponent {
   render() {
@@ -13,13 +12,9 @@ class Footer extends PureComponent {
           <div>
             <h2 className="maker">Created by Daniel</h2>
           </div>
-          <nav className="nav">
-            <Link className="links" to="/">Home</Link>
-            |
-            <Link className="links" to="/calculator">Calculator</Link>
-            |
-            <Link className="links" to="/quotes">Quotes</Link>
-          </nav>
+          <article className="contact">
+            <div className="contacts">Conatct:+2348114374848</div>
+          </article>
         </section>
       </>
     );
