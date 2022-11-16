@@ -1,0 +1,23 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+  background-color: rosybrown;
+  flex-wrap: wrap;
+}
+
+.magicians {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+
+.links {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}
+
+.nav {
+  display: flex;
+  gap: 10px;
+  text-decoration: none;
+}

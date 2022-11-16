@@ -1,0 +1,23 @@
+.magicians {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+
+.links {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}
+
+.thesect {
+  display: flex;
+  justify-content: space-between;
+  background-color: rosybrown;
+  padding: 1%;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.maker {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}

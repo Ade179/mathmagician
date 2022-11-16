@@ -7,26 +7,22 @@
 
 .cont {
   display: flex;
-  align-items: center;
-  margin: auto;
-  height: 100vh;
+  height: 77vh;
+  justify-content: space-between;
 }
 
 .buttons {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  width: 500px;
-  height: 300px;
+  width: 800px;
+  height: 700px;
   border: none;
   cursor: pointer;
 }
 
 .container {
-  display: block;
-  justify-content: center;
-  margin: auto;
-  height: 300px;
-  width: 500px;
+  display: flex;
+  flex-direction: column;
 }
 
 .span2 {
@@ -38,7 +34,7 @@
 }
 
 .screen {
-  width: 500px;
+  width: 800px;
   background-color: grey;
   height: 100px;
 }
@@ -51,4 +47,12 @@
   padding: 8%;
   font-size: 25px;
   color: white;
+}
+
+.cta {
+  display: flex;
+  align-self: flex-start;
+  font-size: 15px;
+  padding: 2%;
+  font-weight: 700;
 }

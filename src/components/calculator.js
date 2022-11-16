@@ -16,6 +16,7 @@ function Calculator() {
   const { total, next, operation } = state;
   return (
     <section className="cont">
+      <div className="cta">Let us do some math!</div>
       <div className="container">
         <div className="screen">
           <span className="answer">
