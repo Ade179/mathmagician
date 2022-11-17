@@ -6,7 +6,7 @@ class Navigation extends PureComponent {
   render() {
     return (
       <>
-        <div className="nav-bar">
+        <div className="nav-bar" data-testId="nav">
           <div className="logo">
             <h1 className="magicians">Math Magicians</h1>
           </div>
