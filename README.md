@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+[Live Demo Link](https://637609de6cf2ba6116c494a1--mathfantasy.netlify.app/)
 
 
 ## Getting Started
