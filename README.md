@@ -45,10 +45,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Spaceship Development API (https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=list&status=8&ordering=window_end)
-- Involvement API 
-
-
 ## 📝 License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
